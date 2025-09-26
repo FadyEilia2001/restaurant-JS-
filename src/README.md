@@ -1,4 +1,5 @@
 Hero section
+
 <section class="hero-section">
 <!-- Hero Text -->
 <div class="hero-txt-container">
@@ -35,5 +36,141 @@ Just confirm your order and enjoy our delicious fastest delivery
               class="hero-img"
               src="./imgs/heroBurger.png"
             ></image>
+          </div>
+        </section>
+
+<!-- card -->
+
+ <section class="menu-body">
+          <div class="menu-card">
+            <div class="card-left">
+              <image
+                class="card-img"
+                src="./imgs/burger2.png"
+                alt="burger image"
+              ></image>
+              <p class="card-price">$9.99</p>
+            </div>
+
+            <div class="card-right">
+              <h3 class="menu-card-title">Blast-Off Classic</h3>
+              <span class="card-tag">Best Seller</span>
+              <p class="card-item-desc">
+                Two smash patties, American Cheese, house sauce and pickles
+              </p>
+            </div>
+            <div class="card-btn">
+              <button type="button">Add to order</button>
+            </div>
+          </div>
+
+          <div class="menu-card">
+            <div class="card-left">
+              <image
+                class="card-img"
+                src="./imgs/burger2.png"
+                alt="burger image"
+              ></image>
+              <p class="card-price">$9.99</p>
+            </div>
+
+            <div class="card-right">
+              <h3 class="menu-card-title">Blast-Off Classic</h3>
+              <span class="card-tag">Best Seller</span>
+              <p class="card-item-desc">
+                Two smash patties, American Cheese, house sauce and pickles
+              </p>
+            </div>
+            <div class="card-btn">
+              <button type="button">Add to order</button>
+            </div>
+          </div>
+
+          <div class="menu-card">
+            <div class="card-left">
+              <image
+                class="card-img"
+                src="./imgs/burger2.png"
+                alt="burger image"
+              ></image>
+              <p class="card-price">$9.99</p>
+            </div>
+
+            <div class="card-right">
+              <h3 class="menu-card-title">Blast-Off Classic</h3>
+              <span class="card-tag">Best Seller</span>
+              <p class="card-item-desc">
+                Two smash patties, American Cheese, house sauce and pickles
+              </p>
+            </div>
+            <div class="card-btn">
+              <button type="button">Add to order</button>
+            </div>
+          </div>
+
+          <div class="menu-card">
+            <div class="card-left">
+              <image
+                class="card-img"
+                src="./imgs/burger2.png"
+                alt="burger image"
+              ></image>
+              <p class="card-price">$9.99</p>
+            </div>
+
+            <div class="card-right">
+              <h3 class="menu-card-title">Blast-Off Classic</h3>
+              <span class="card-tag">Best Seller</span>
+              <p class="card-item-desc">
+                Two smash patties, American Cheese, house sauce and pickles
+              </p>
+            </div>
+            <div class="card-btn">
+              <button type="button">Add to order</button>
+            </div>
+          </div>
+
+          <div class="menu-card">
+            <div class="card-left">
+              <image
+                class="card-img"
+                src="./imgs/burger2.png"
+                alt="burger image"
+              ></image>
+              <p class="card-price">$9.99</p>
+            </div>
+
+            <div class="card-right">
+              <h3 class="menu-card-title">Blast-Off Classic</h3>
+              <span class="card-tag">Best Seller</span>
+              <p class="card-item-desc">
+                Two smash patties, American Cheese, house sauce and pickles
+              </p>
+            </div>
+            <div class="card-btn">
+              <button type="button">Add to order</button>
+            </div>
+          </div>
+
+          <div class="menu-card">
+            <div class="card-left">
+              <image
+                class="card-img"
+                src="./imgs/burger2.png"
+                alt="burger image"
+              ></image>
+              <p class="card-price">$9.99</p>
+            </div>
+
+            <div class="card-right">
+              <h3 class="menu-card-title">Blast-Off Classic</h3>
+              <span class="card-tag">Best Seller</span>
+              <p class="card-item-desc">
+                Two smash patties, American Cheese, house sauce and pickles
+              </p>
+            </div>
+            <div class="card-btn">
+              <button type="button">Add to order</button>
+            </div>
           </div>
         </section>
