@@ -22,7 +22,7 @@ navBtns.addEventListener("click", (e) => {
     content.appendChild(menuPage);
   } else if (e.target.dataset.tab === "contact") {
     content.innerHTML = "";
-    content.appendChild(contactUs);
+    content.appendChild(contactUsc);
   } else {
     content.innerHTML = "";
     content.appendChild(homeEl);
